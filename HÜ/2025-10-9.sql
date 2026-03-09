@@ -1,6 +1,6 @@
 #Aufgabe 1:
 
-select count(distinct CustomerName) from customers WHERE City = 'Berlin';#
+select count(distinct CustomerName) from customers WHERE City = 'Berlin';
 
 Antwort: "1"
 
